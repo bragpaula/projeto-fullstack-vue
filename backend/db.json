@@ -1,0 +1,83 @@
+{
+  "resources": [
+    {
+      "id": "1",
+      "titulo": "Exemplo A",
+      "autor": "Ana",
+      "data": "2025-10-01T10:00:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "2",
+      "titulo": "Outro Post",
+      "autor": "Carlos",
+      "data": "2025-11-01T09:00:00Z",
+      "status": "inativo"
+    },
+    {
+      "id": "af88",
+      "titulo": "Oi to testando",
+      "autor": "paula braga",
+      "data": "2025-11-10T22:34:00.000Z",
+      "status": "ativo"
+    },
+    {
+      "id": "4611",
+      "titulo": "af n ta prestando",
+      "autor": "paula",
+      "data": "2025-11-10T22:36:00.000Z",
+      "status": "ativo"
+    },
+    {
+      "id": "aedf",
+      "titulo": "mds q isso",
+      "autor": "paula dnv",
+      "data": "2025-10-30T22:36:00.000Z",
+      "status": "ativo"
+    },
+    {
+      "id": "9735",
+      "titulo": "essa bosta",
+      "autor": "paula",
+      "data": "2025-11-12T22:37:00.000Z",
+      "status": "ativo"
+    },
+    {
+      "id": "669e",
+      "titulo": "testano",
+      "autor": "paula",
+      "data": "2025-11-13T18:03:00.000Z",
+      "status": "inativo"
+    },
+    {
+      "id": "36f0",
+      "titulo": "jahfj",
+      "autor": "paula",
+      "data": "2025-11-11T18:03:00.000Z",
+      "status": "ativo"
+    },
+    {
+      "id": "add3",
+      "titulo": "hlhlih",
+      "autor": "e",
+      "data": "2025-11-20T21:03:00.000Z",
+      "status": "inativo"
+    }
+  ],
+  "subresources": [
+    {
+      "id": "1",
+      "resourceId": 1,
+      "conteudo": "Comentário 1",
+      "autor": "Bruno",
+      "data": "2025-10-02T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "resourceId": 1,
+      "conteudo": "Comentário 2",
+      "autor": "Marina",
+      "data": "2025-10-03T14:00:00Z"
+    }
+  ]
+}
