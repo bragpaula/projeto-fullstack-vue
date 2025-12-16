@@ -401,5 +401,5 @@ python app.py
 
 ## 👨‍💻 Desenvolvido por
 
-[Seu Nome]
+Paula Braga
 
