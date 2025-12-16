@@ -326,4 +326,4 @@ Formulário para criar/editar comentário.
 
 ## 👨‍💻 Desenvolvido por
 
-[Seu Nome]
+Paula Braga
